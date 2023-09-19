@@ -1,0 +1,16 @@
+body {
+  background-color: #1B1924;
+  color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 20rem;
+}
+
+#head-img {
+  width: 6rem;
+}
