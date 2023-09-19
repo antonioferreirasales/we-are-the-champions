@@ -14,3 +14,19 @@ body {
 #head-img {
   width: 6rem;
 }
+
+#endorsement-list {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 0.81rem;
+}
+
+li {
+  list-style-type: none;
+  color: #1B1924;
+  background-color: #FFF;
+}
+
+#no-items {
+  color: rgb(199, 89, 89);
+}
